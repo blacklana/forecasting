@@ -52,7 +52,7 @@ st.sidebar.warning(
                 3. Build & Evaluate model
                 4. Forecasting"""
 )
-st.sidebar.caption("Developed by: Author")
+st.sidebar.caption("Developed by: Tengku Maulana")
 st.subheader(f"{option} for {name} Stock")
 
 if option == "Stock Data EDA":
